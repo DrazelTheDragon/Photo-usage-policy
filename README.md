@@ -9,7 +9,7 @@ General information about sharing photos taken by me.
 Exceptions are commercial and promotional use.  </br>
 Feel free to reach out — it motivates me to continue pursuing my passion.  </br>
 
-### Give credit where credit is due  
+__Give credit where credit is due__ [Social](https://github.com/DrazelTheDragon/Socials)  
 
 Unless otherwise stated, all photographs published by me (“the Photographer”) are protected by copyright. The following policy outlines how my images may and may not be used.
 
@@ -21,7 +21,7 @@ You are welcome to use my photos for personal, non-commercial purposes, includin
 - Using them as wallpapers  
 - Sharing them in personal blogs, hobby projects, or similar non-commercial contexts  
  
-__Give credit__
+__[Give credit](https://github.com/DrazelTheDragon/Socials)__
 
 ---
 
@@ -76,7 +76,7 @@ Du darfst meine Fotos für private, nicht-kommerzielle Zwecke verwenden, einschl
 - Nutzung als Hintergrundbild  
 - Verwendung in privaten Blogs, Hobbyprojekten oder ähnlichen nicht-kommerziellen Kontexten  
   
-__Namensnennung__
+__[Namensnennung](https://github.com/DrazelTheDragon/Socials)__
 
 ---
 
